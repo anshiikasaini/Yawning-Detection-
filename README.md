@@ -38,9 +38,7 @@ You can adjust the yawn detection threshold and sound alert in the `yawn_detecti
 - imutils
 - scipy
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
